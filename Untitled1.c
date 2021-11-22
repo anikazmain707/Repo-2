@@ -21,5 +21,4 @@ int main()
 
         }
     }
-    printf("Result: %c",result);
 }
